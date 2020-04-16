@@ -3,6 +3,8 @@
 // false --> falsy
 
 // falsy
+// valores que representan la nada
+const number = NaN
 const cadenaVacia = ''
 const cero = 0
 const valorNulo = null
