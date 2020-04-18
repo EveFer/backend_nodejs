@@ -164,3 +164,7 @@ principal()
         console.log('Fin')
     })
     .catch(error => console.error('Error: ', error))
+
+
+// primificar los metodos de la practica de fs
+// PROMIFICAR funciones que trabajan con callbacks pasarlos a que trabajen con promesas
