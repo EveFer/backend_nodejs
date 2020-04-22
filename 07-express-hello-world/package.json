@@ -1,0 +1,24 @@
+{
+  "name": "07-express-hello-world",
+  "version": "1.0.0",
+  "description": "Hello world using express",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo 'test running'"
+  },
+  "keywords": [
+    "express",
+    "kodemia",
+    "hello-world"
+  ],
+  "author": "@EveFer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
