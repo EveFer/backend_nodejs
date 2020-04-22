@@ -1,0 +1,21 @@
+{
+  "name": "08-my-first-api",
+  "version": "1.0.0",
+  "description": "My first api",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "api",
+    "express"
+  ],
+  "author": "@EveFer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}

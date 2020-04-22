@@ -1,0 +1,22 @@
+{
+    "koders": [
+        {
+            "name": "Fernanda Palacios",
+            "generation": 7
+        },
+        {
+            "name": "Victor Torres",
+            "generation": 7
+        }
+    ],
+    "mentors": [
+        {
+            "name": "Charles Silva",
+            "module": "Backend"
+        },
+        {
+            "name": "Isra Salinas",
+            "module": "Frontend"
+        }
+    ]
+}
